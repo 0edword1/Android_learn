@@ -5,4 +5,4 @@
   * [version4](./learn/version4.md)
 * [pp](./AC_first/hello.md)
 * Other
-  * [AC_first](./AC_first/copy.md)
+  * [项目源码](https://github.com/0edword1/Android_learn/releases/tag/source_code)
